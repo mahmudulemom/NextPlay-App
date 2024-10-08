@@ -1,0 +1,7 @@
+ 123;Grand Theft Auto V;5;3000;15000;101
+123;Assassin's Creed Valhalla;3;4500;13500;202
+123;Ghost Of Tsushima;2;5000;10000;303
+123;Ghost Of Tsushima;3;5000;15000;303
+123;Grand Theft Auto V;1;3000;3000;101
+123;Grand Theft Auto V;2;3000;6000;101
+123;Assassin's Creed Valhalla;3;4500;13500;202
